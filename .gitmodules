@@ -1,0 +1,3 @@
+[submodule "CommonAssets"]
+	path = CommonAssets
+	url = https://github.com/Raj2509/CommonAssets.git
